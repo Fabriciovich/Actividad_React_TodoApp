@@ -1,11 +1,9 @@
 export const Title = () => {
     return (
         
-            <div className="row">
-                <div className="col-12">
+                <div className="todoapp">
                     <h1>TodoApp</h1>
                 </div>
-            </div>
   
     )
 }

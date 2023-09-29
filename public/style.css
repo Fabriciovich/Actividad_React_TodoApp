@@ -1,0 +1,4 @@
+.todoapp, .todolist {
+    display: grid;
+    justify-content: center;
+}
